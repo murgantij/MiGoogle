@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(255, 255, 255);
+
+  }
+  
+  .formato_def {
+    border: white solid;
+    text-align: center;
+    margin: 5%;
+  }
+  
+  .titulo {
+    border: white solid;
+    text-align: center;
+    margin: 1%;
+    font-family:arial,sans-serif;
+    font-size: x-large;
+    font-style:italic;
+    color: rgb(160, 172, 210);
+  }
+  
+  .button {
+    background-color: #6bb9ce; 
+    border:none;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    }
+
+    .tabla_google{
+      border: white solid;
+      text-align: center;
+      margin: 5%;
+      width: 90%;
+    }
+
+    .texto_busqueda {
+      font-size: medium;
+      width: 50%;
+    }
+    .celda_boton{
+      width: 20%;
+    }
+
+    .footer {
+      border: white solid;
+      text-align: center;
+      font-family:arial,sans-serif;
+      font-size: small;
+      font-style:italic;
+      color: rgb(160, 172, 210);
+    }
